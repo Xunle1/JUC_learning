@@ -6,90 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ab55382-09ac-4f70-af5d-6e31d90a231c" name="Default Changelist" comment="守护线程">
-      <change beforePath="$PROJECT_DIR$/../FileSystem/.idea/artifacts/FileSystem_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/FileSystem.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/artifacts/FileSystem_jar/FileSystem.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/exception/FileSystemException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/model/Disk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/model/FAT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/model/File.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/model/Folder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/model/OpenFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/model/OpenFiles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/model/Pointer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/service/FATService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/util/FileSystemUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/util/MessageUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/DiskTableModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/HelpDialog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/JieShao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/MainFrame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/MainFrame$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/MainFrame$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/MainFrame$Tree$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/MainFrame$Tree$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/MainFrame$Tree$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/MainFrame$Tree$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/MainFrame$Tree$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/MainFrame$Tree$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/MainFrame$Tree$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/MainFrame$Tree$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/MainFrame$Tree$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/MainFrame$Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/MainFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/MyJLabel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/OpenFileJFrame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/OpenFileJFrame$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/OpenFileJFrame$WindowClosingListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/OpenFileJFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/OpenFileTableModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/RunFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/ShowPropertyDialog$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/ShowPropertyDialog$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/ShowPropertyDialog$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/ShowPropertyDialog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/com/cw/filesystem/viewer/ShowRenameDialog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/images/disk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/images/file.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/images/file1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/images/folder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/images/folder1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/out/production/FileSystem/images/img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/com/cw/filesystem/exception/FileSystemException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/com/cw/filesystem/model/Disk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/com/cw/filesystem/model/FAT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/com/cw/filesystem/model/File.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/com/cw/filesystem/model/Folder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/com/cw/filesystem/model/OpenFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/com/cw/filesystem/model/OpenFiles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/com/cw/filesystem/model/Pointer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/com/cw/filesystem/service/FATService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/com/cw/filesystem/util/FileSystemUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/com/cw/filesystem/util/MessageUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/com/cw/filesystem/viewer/DiskTableModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/com/cw/filesystem/viewer/HelpDialog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/com/cw/filesystem/viewer/JieShao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/com/cw/filesystem/viewer/MainFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/com/cw/filesystem/viewer/MyJLabel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/com/cw/filesystem/viewer/OpenFileJFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/com/cw/filesystem/viewer/OpenFileTableModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/com/cw/filesystem/viewer/RunFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/com/cw/filesystem/viewer/ShowPropertyDialog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/com/cw/filesystem/viewer/ShowRenameDialog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/images/disk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/images/file.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/images/file1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/images/folder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/images/folder1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileSystem/src/images/img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +87,7 @@
       <workItem from="1631292755214" duration="3279000" />
       <workItem from="1631340182071" duration="736000" />
       <workItem from="1631341049013" duration="104000" />
-      <workItem from="1631341217423" duration="1397000" />
+      <workItem from="1631341217423" duration="2021000" />
     </task>
     <task id="LOCAL-00001" summary="守护线程">
       <created>1631295433152</created>
