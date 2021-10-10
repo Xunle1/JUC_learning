@@ -11,13 +11,13 @@ public class TicketSale {
         Ticket ticket = new Ticket();
 
         new Thread(() -> {
-            for (int i = 0; i < 200; i++) {
+            while (true) {
                 ticket.sale();
             }
         }, "A").start();
 
         new Thread(() -> {
-            for (int i = 0; i < 200; i++) {
+            while (true) {
                 ticket.sale();
             }
         }, "B").start();
